@@ -1,6 +1,19 @@
 """Second Spark business assistant (Watt).
-Same code as business_agent.ipynb without the demonstration cells, for deployment (for example Hugging Face Spaces).
+Same code as business_agent.ipynb without the demonstration cells, for deployment (for example Hugging Face Spaces),
+plus a small ZeroGPU block at the top that the notebook does not need.
 Set GEMINI_API_KEY or OPENAI_API_KEY in .env or in the Space secrets."""
+
+# Hugging Face ZeroGPU only // ZeroGPU stops any app that has no @spaces.GPU function at startup.
+# The bot never uses the GPU (the model runs on Google's servers), so this function is never called.
+try:
+    import spaces
+
+    @spaces.GPU
+    def zerogpu_placeholder():
+        """Never called. It only exists so the ZeroGPU Space accepts the app."""
+        return None
+except ImportError:
+    pass  # running locally // the spaces package only exists on Hugging Face
 
 # imports
 import os
