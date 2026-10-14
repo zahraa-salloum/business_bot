@@ -1,0 +1,15 @@
+Second Spark, Business Summary
+
+Second Spark is an electronics repair and refurbishing workshop in Hamra, Beirut. It was founded in 2021 by Rana Haddad and Karim Nassar after they noticed how many phones and laptops were thrown away for problems that take twenty minutes to fix. The mission is simple: keep working electronics out of the landfill by making repair cheaper, faster and more honest than replacing.
+
+The workshop repairs phones, laptops, tablets, game consoles and small audio gear. Every device gets a free diagnostic within 24 hours and the customer receives a fixed price before any work starts. If the device can not be fixed there is no fee. Typical prices are a phone screen replacement from 45 USD, a phone battery replacement for 25 USD, a laptop battery replacement from 40 USD, a laptop deep clean with new thermal paste for 20 USD and liquid damage treatment from 35 USD. All repairs come with a 90 day warranty and a photo report of the work that was done.
+
+Second Spark also sells refurbished devices. Refurbished laptops start from 180 USD and refurbished phones start from 90 USD, and each one comes with a 6 month warranty. Customers can trade in an old device for store credit, and anyone can drop off dead electronics for free recycling.
+
+Every Saturday from 11:00 to 13:00 the workshop runs a Fix It Yourself class where people learn to open and repair their own devices. A seat costs 15 USD and each class is limited to 8 people. For small offices and schools there are Business Care Plans that cover maintenance and repairs for a monthly fee. These plans are quoted per customer, so there is no public price list for them.
+
+The team has four people. Rana Haddad is a cofounder and the lead technician, an electrical engineer who specializes in micro soldering and board level repair. Karim Nassar is a cofounder who runs operations and customer care. Maya Khoury leads refurbishment and quality testing. Jad Saliba teaches the Saturday workshops.
+
+What makes Second Spark different is that the price is agreed before the work starts, a failed repair costs nothing, every repair is documented with photos and the team is happy to teach customers how to fix things themselves.
+
+Opening hours are Monday to Friday from 10:00 to 19:00 and Saturday from 10:00 to 15:00. The workshop is closed on Sunday. It is located on Makdessi Street, Hamra, Beirut. The contact email is hello@secondspark.example.
